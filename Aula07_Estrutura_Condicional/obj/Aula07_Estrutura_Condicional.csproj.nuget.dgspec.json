@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Gustavo\\Documents\\LogicaDeCsharp\\Aula05_Expressões_Comparativas\\Aula05_Expressões_Comparativas.csproj": {}
+    "C:\\Users\\Gustavo\\Documents\\LogicaDeCsharp\\Aula07_Estrutura_Condicional\\Aula07_Estrutura_Condicional.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Gustavo\\Documents\\LogicaDeCsharp\\Aula05_Expressões_Comparativas\\Aula05_Expressões_Comparativas.csproj": {
+    "C:\\Users\\Gustavo\\Documents\\LogicaDeCsharp\\Aula07_Estrutura_Condicional\\Aula07_Estrutura_Condicional.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gustavo\\Documents\\LogicaDeCsharp\\Aula05_Expressões_Comparativas\\Aula05_Expressões_Comparativas.csproj",
-        "projectName": "Aula05_Expressões_Comparativas",
-        "projectPath": "C:\\Users\\Gustavo\\Documents\\LogicaDeCsharp\\Aula05_Expressões_Comparativas\\Aula05_Expressões_Comparativas.csproj",
+        "projectUniqueName": "C:\\Users\\Gustavo\\Documents\\LogicaDeCsharp\\Aula07_Estrutura_Condicional\\Aula07_Estrutura_Condicional.csproj",
+        "projectName": "Aula07_Estrutura_Condicional",
+        "projectPath": "C:\\Users\\Gustavo\\Documents\\LogicaDeCsharp\\Aula07_Estrutura_Condicional\\Aula07_Estrutura_Condicional.csproj",
         "packagesPath": "C:\\Users\\Gustavo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gustavo\\Documents\\LogicaDeCsharp\\Aula05_Expressões_Comparativas\\obj\\",
+        "outputPath": "C:\\Users\\Gustavo\\Documents\\LogicaDeCsharp\\Aula07_Estrutura_Condicional\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Gustavo\\AppData\\Roaming\\NuGet\\NuGet.Config"

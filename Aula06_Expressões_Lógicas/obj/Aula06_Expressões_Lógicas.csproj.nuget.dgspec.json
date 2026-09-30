@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Gustavo\\Documents\\LogicaDeCsharp\\Aula05_Expressões_Comparativas\\Aula05_Expressões_Comparativas.csproj": {}
+    "c:\\Users\\Gustavo\\Documents\\LogicaDeCsharp\\Aula06_Expressões_Lógicas\\Aula06_Expressões_Lógicas.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Gustavo\\Documents\\LogicaDeCsharp\\Aula05_Expressões_Comparativas\\Aula05_Expressões_Comparativas.csproj": {
+    "c:\\Users\\Gustavo\\Documents\\LogicaDeCsharp\\Aula06_Expressões_Lógicas\\Aula06_Expressões_Lógicas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gustavo\\Documents\\LogicaDeCsharp\\Aula05_Expressões_Comparativas\\Aula05_Expressões_Comparativas.csproj",
-        "projectName": "Aula05_Expressões_Comparativas",
-        "projectPath": "C:\\Users\\Gustavo\\Documents\\LogicaDeCsharp\\Aula05_Expressões_Comparativas\\Aula05_Expressões_Comparativas.csproj",
+        "projectUniqueName": "c:\\Users\\Gustavo\\Documents\\LogicaDeCsharp\\Aula06_Expressões_Lógicas\\Aula06_Expressões_Lógicas.csproj",
+        "projectName": "Aula06_Expressões_Lógicas",
+        "projectPath": "c:\\Users\\Gustavo\\Documents\\LogicaDeCsharp\\Aula06_Expressões_Lógicas\\Aula06_Expressões_Lógicas.csproj",
         "packagesPath": "C:\\Users\\Gustavo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gustavo\\Documents\\LogicaDeCsharp\\Aula05_Expressões_Comparativas\\obj\\",
+        "outputPath": "c:\\Users\\Gustavo\\Documents\\LogicaDeCsharp\\Aula06_Expressões_Lógicas\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Gustavo\\AppData\\Roaming\\NuGet\\NuGet.Config"

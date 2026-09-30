@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Aula07_Estrutura_Condicional/1.0.0": {
+        "runtime": {
+          "Aula07_Estrutura_Condicional.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Aula07_Estrutura_Condicional/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
