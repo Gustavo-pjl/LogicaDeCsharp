@@ -41,6 +41,7 @@ namespace Funções_Mat
 
             Console.WriteLine("Pressione qualquer tecla para sair...");
             Console.ReadKey();
+
         }  
     }
 }     
