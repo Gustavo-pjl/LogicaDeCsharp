@@ -1,0 +1,14 @@
+C:\Users\Gustavo\Documents\LogicaDeCsharp\Aula01_Variaveis\bin\Debug\net10.0\Aula01_Variaveis.exe
+C:\Users\Gustavo\Documents\LogicaDeCsharp\Aula01_Variaveis\bin\Debug\net10.0\Aula01_Variaveis.deps.json
+C:\Users\Gustavo\Documents\LogicaDeCsharp\Aula01_Variaveis\bin\Debug\net10.0\Aula01_Variaveis.runtimeconfig.json
+C:\Users\Gustavo\Documents\LogicaDeCsharp\Aula01_Variaveis\bin\Debug\net10.0\Aula01_Variaveis.dll
+C:\Users\Gustavo\Documents\LogicaDeCsharp\Aula01_Variaveis\bin\Debug\net10.0\Aula01_Variaveis.pdb
+C:\Users\Gustavo\Documents\LogicaDeCsharp\Aula01_Variaveis\obj\Debug\net10.0\Aula01_Variaveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo\Documents\LogicaDeCsharp\Aula01_Variaveis\obj\Debug\net10.0\Aula01_Variaveis.AssemblyInfoInputs.cache
+C:\Users\Gustavo\Documents\LogicaDeCsharp\Aula01_Variaveis\obj\Debug\net10.0\Aula01_Variaveis.AssemblyInfo.cs
+C:\Users\Gustavo\Documents\LogicaDeCsharp\Aula01_Variaveis\obj\Debug\net10.0\Aula01_Variaveis.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Documents\LogicaDeCsharp\Aula01_Variaveis\obj\Debug\net10.0\Aula01_Variaveis.dll
+C:\Users\Gustavo\Documents\LogicaDeCsharp\Aula01_Variaveis\obj\Debug\net10.0\refint\Aula01_Variaveis.dll
+C:\Users\Gustavo\Documents\LogicaDeCsharp\Aula01_Variaveis\obj\Debug\net10.0\Aula01_Variaveis.pdb
+C:\Users\Gustavo\Documents\LogicaDeCsharp\Aula01_Variaveis\obj\Debug\net10.0\Aula01_Variaveis.genruntimeconfig.cache
+C:\Users\Gustavo\Documents\LogicaDeCsharp\Aula01_Variaveis\obj\Debug\net10.0\ref\Aula01_Variaveis.dll

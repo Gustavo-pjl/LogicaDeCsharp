@@ -1,0 +1,14 @@
+C:\Users\Gustavo\Documents\LogicaDeCsharp\Aula04_Funções_Mat\bin\Debug\net10.0\Aula04_Funções_Mat.exe
+C:\Users\Gustavo\Documents\LogicaDeCsharp\Aula04_Funções_Mat\bin\Debug\net10.0\Aula04_Funções_Mat.deps.json
+C:\Users\Gustavo\Documents\LogicaDeCsharp\Aula04_Funções_Mat\bin\Debug\net10.0\Aula04_Funções_Mat.runtimeconfig.json
+C:\Users\Gustavo\Documents\LogicaDeCsharp\Aula04_Funções_Mat\bin\Debug\net10.0\Aula04_Funções_Mat.dll
+C:\Users\Gustavo\Documents\LogicaDeCsharp\Aula04_Funções_Mat\bin\Debug\net10.0\Aula04_Funções_Mat.pdb
+C:\Users\Gustavo\Documents\LogicaDeCsharp\Aula04_Funções_Mat\obj\Debug\net10.0\Aula04_Funções_Mat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo\Documents\LogicaDeCsharp\Aula04_Funções_Mat\obj\Debug\net10.0\Aula04_Funções_Mat.AssemblyInfoInputs.cache
+C:\Users\Gustavo\Documents\LogicaDeCsharp\Aula04_Funções_Mat\obj\Debug\net10.0\Aula04_Funções_Mat.AssemblyInfo.cs
+C:\Users\Gustavo\Documents\LogicaDeCsharp\Aula04_Funções_Mat\obj\Debug\net10.0\Aula04_Funções_Mat.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Documents\LogicaDeCsharp\Aula04_Funções_Mat\obj\Debug\net10.0\Aula04_Funções_Mat.dll
+C:\Users\Gustavo\Documents\LogicaDeCsharp\Aula04_Funções_Mat\obj\Debug\net10.0\refint\Aula04_Funções_Mat.dll
+C:\Users\Gustavo\Documents\LogicaDeCsharp\Aula04_Funções_Mat\obj\Debug\net10.0\Aula04_Funções_Mat.pdb
+C:\Users\Gustavo\Documents\LogicaDeCsharp\Aula04_Funções_Mat\obj\Debug\net10.0\Aula04_Funções_Mat.genruntimeconfig.cache
+C:\Users\Gustavo\Documents\LogicaDeCsharp\Aula04_Funções_Mat\obj\Debug\net10.0\ref\Aula04_Funções_Mat.dll

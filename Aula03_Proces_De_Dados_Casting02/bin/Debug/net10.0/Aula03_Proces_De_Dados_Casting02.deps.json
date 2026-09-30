@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Aula03_Proces_De_Dados_Casting02/1.0.0": {
+        "runtime": {
+          "Aula03_Proces_De_Dados_Casting02.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Aula03_Proces_De_Dados_Casting02/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
