@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Gustavo\\Documents\\LogicaDeCsharp\\Aula06_Expressões_Lógicas\\Aula06_Expressões_Lógicas.csproj": {}
+    "C:\\Users\\Gustavo\\Documents\\LogicaDeCsharp\\Aula06_Expressões_Lógicas\\Aula06_Expressões_Lógicas.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Gustavo\\Documents\\LogicaDeCsharp\\Aula06_Expressões_Lógicas\\Aula06_Expressões_Lógicas.csproj": {
+    "C:\\Users\\Gustavo\\Documents\\LogicaDeCsharp\\Aula06_Expressões_Lógicas\\Aula06_Expressões_Lógicas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Gustavo\\Documents\\LogicaDeCsharp\\Aula06_Expressões_Lógicas\\Aula06_Expressões_Lógicas.csproj",
+        "projectUniqueName": "C:\\Users\\Gustavo\\Documents\\LogicaDeCsharp\\Aula06_Expressões_Lógicas\\Aula06_Expressões_Lógicas.csproj",
         "projectName": "Aula06_Expressões_Lógicas",
-        "projectPath": "c:\\Users\\Gustavo\\Documents\\LogicaDeCsharp\\Aula06_Expressões_Lógicas\\Aula06_Expressões_Lógicas.csproj",
+        "projectPath": "C:\\Users\\Gustavo\\Documents\\LogicaDeCsharp\\Aula06_Expressões_Lógicas\\Aula06_Expressões_Lógicas.csproj",
         "packagesPath": "C:\\Users\\Gustavo\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Gustavo\\Documents\\LogicaDeCsharp\\Aula06_Expressões_Lógicas\\obj\\",
+        "outputPath": "C:\\Users\\Gustavo\\Documents\\LogicaDeCsharp\\Aula06_Expressões_Lógicas\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Gustavo\\AppData\\Roaming\\NuGet\\NuGet.Config"

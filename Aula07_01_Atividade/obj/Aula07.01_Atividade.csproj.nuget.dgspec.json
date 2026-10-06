@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Gustavo\\Documents\\LogicaDeCsharp\\Aula04_1_Atividade\\Aula04_1_Atividade.csproj": {}
+    "c:\\Users\\Gustavo\\Documents\\LogicaDeCsharp\\Aula07_01_Atividade\\Aula07.01_Atividade.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Gustavo\\Documents\\LogicaDeCsharp\\Aula04_1_Atividade\\Aula04_1_Atividade.csproj": {
+    "c:\\Users\\Gustavo\\Documents\\LogicaDeCsharp\\Aula07_01_Atividade\\Aula07.01_Atividade.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gustavo\\Documents\\LogicaDeCsharp\\Aula04_1_Atividade\\Aula04_1_Atividade.csproj",
-        "projectName": "Aula04_1_Atividade",
-        "projectPath": "C:\\Users\\Gustavo\\Documents\\LogicaDeCsharp\\Aula04_1_Atividade\\Aula04_1_Atividade.csproj",
+        "projectUniqueName": "c:\\Users\\Gustavo\\Documents\\LogicaDeCsharp\\Aula07_01_Atividade\\Aula07.01_Atividade.csproj",
+        "projectName": "Aula07.01_Atividade",
+        "projectPath": "c:\\Users\\Gustavo\\Documents\\LogicaDeCsharp\\Aula07_01_Atividade\\Aula07.01_Atividade.csproj",
         "packagesPath": "C:\\Users\\Gustavo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gustavo\\Documents\\LogicaDeCsharp\\Aula04_1_Atividade\\obj\\",
+        "outputPath": "c:\\Users\\Gustavo\\Documents\\LogicaDeCsharp\\Aula07_01_Atividade\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Gustavo\\AppData\\Roaming\\NuGet\\NuGet.Config"
