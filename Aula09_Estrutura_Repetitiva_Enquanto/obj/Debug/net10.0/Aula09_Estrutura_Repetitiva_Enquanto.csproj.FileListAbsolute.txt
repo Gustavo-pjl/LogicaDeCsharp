@@ -1,0 +1,15 @@
+C:\Users\Gustavo\Documents\LogicaDeCsharp\Aula09_Estrutura_Repetitiva_Enquanto\bin\Debug\net10.0\Aula09_Estrutura_Repetitiva_Enquanto.exe
+C:\Users\Gustavo\Documents\LogicaDeCsharp\Aula09_Estrutura_Repetitiva_Enquanto\bin\Debug\net10.0\Aula09_Estrutura_Repetitiva_Enquanto.deps.json
+C:\Users\Gustavo\Documents\LogicaDeCsharp\Aula09_Estrutura_Repetitiva_Enquanto\bin\Debug\net10.0\Aula09_Estrutura_Repetitiva_Enquanto.runtimeconfig.json
+C:\Users\Gustavo\Documents\LogicaDeCsharp\Aula09_Estrutura_Repetitiva_Enquanto\bin\Debug\net10.0\Aula09_Estrutura_Repetitiva_Enquanto.dll
+C:\Users\Gustavo\Documents\LogicaDeCsharp\Aula09_Estrutura_Repetitiva_Enquanto\bin\Debug\net10.0\Aula09_Estrutura_Repetitiva_Enquanto.pdb
+C:\Users\Gustavo\Documents\LogicaDeCsharp\Aula09_Estrutura_Repetitiva_Enquanto\obj\Debug\net10.0\Aula09_Estrutura_Repetitiva_Enquanto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo\Documents\LogicaDeCsharp\Aula09_Estrutura_Repetitiva_Enquanto\obj\Debug\net10.0\Aula09_Estrutura_Repetitiva_Enquanto.AssemblyInfoInputs.cache
+C:\Users\Gustavo\Documents\LogicaDeCsharp\Aula09_Estrutura_Repetitiva_Enquanto\obj\Debug\net10.0\Aula09_Estrutura_Repetitiva_Enquanto.AssemblyInfo.cs
+C:\Users\Gustavo\Documents\LogicaDeCsharp\Aula09_Estrutura_Repetitiva_Enquanto\obj\Debug\net10.0\Aula09_Estrutura_Repetitiva_Enquanto.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Documents\LogicaDeCsharp\Aula09_Estrutura_Repetitiva_Enquanto\obj\Debug\net10.0\Aula09_Estrutura_Repetitiva_Enquanto.sourcelink.json
+C:\Users\Gustavo\Documents\LogicaDeCsharp\Aula09_Estrutura_Repetitiva_Enquanto\obj\Debug\net10.0\Aula09_Estrutura_Repetitiva_Enquanto.dll
+C:\Users\Gustavo\Documents\LogicaDeCsharp\Aula09_Estrutura_Repetitiva_Enquanto\obj\Debug\net10.0\refint\Aula09_Estrutura_Repetitiva_Enquanto.dll
+C:\Users\Gustavo\Documents\LogicaDeCsharp\Aula09_Estrutura_Repetitiva_Enquanto\obj\Debug\net10.0\Aula09_Estrutura_Repetitiva_Enquanto.pdb
+C:\Users\Gustavo\Documents\LogicaDeCsharp\Aula09_Estrutura_Repetitiva_Enquanto\obj\Debug\net10.0\Aula09_Estrutura_Repetitiva_Enquanto.genruntimeconfig.cache
+C:\Users\Gustavo\Documents\LogicaDeCsharp\Aula09_Estrutura_Repetitiva_Enquanto\obj\Debug\net10.0\ref\Aula09_Estrutura_Repetitiva_Enquanto.dll
